@@ -6,3 +6,4 @@ flask
 ipykernel
 pypdf
 python-dotenv
+-e .
